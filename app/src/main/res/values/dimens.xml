@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="withButtons">103dp</dimen>
+    <dimen name="textSizeOper">55sp</dimen>
+    <dimen name="textSizeNumb">20sp</dimen>
 </resources>
